@@ -38,4 +38,4 @@ The "Hackathon/Makeathon Participation Consent Form and Post-Completion Confirma
 
 If you use them in your event, please modify them to suit the event, and publish the result under the same license. For secondary use, please fork the work on GitHub if possible to identify derivative relationships.
 Creation: Shigeru Kobayashi ([Institute of Advanced Media Arts and Sciences [IAMAS]](http://www.iamas.ac.jp/en/))  
-Editorial Supervision: Lawyer, Tasuku Mizuno, Shinichiro Kurasaki and Nao Katayama ([City Lights Law Office](http://citylights-lawoffice.tumblr.com/))
+Editorial Supervision: Lawyer, Tasuku Mizuno, Shinichiro Kurasaki and Nao Katayama ([City Lights Law](http://citylights-lawoffice.tumblr.com/))
